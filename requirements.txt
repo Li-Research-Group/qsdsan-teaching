@@ -1,0 +1,7 @@
+qsdsan>=1.6.0
+jupyterlab
+notebook
+ipywidgets
+matplotlib
+pytest
+voila
